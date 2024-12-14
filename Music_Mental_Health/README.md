@@ -27,10 +27,4 @@ The dataset contains responses to questions about musical background, listening 
 - `Permissions`: Permissions for using the data
 
 ## Analysis
-The analysis includes data preprocessing, exploratory data analysis (EDA), and visualizations to understand trends and correlations in the data.
-
-## How to Run
-1. Clone this repository: `git clone https://github.com/yourusername/Data-Analysis-Portfolio.git`
-2. Navigate to the project directory: `cd Data-Analysis-Portfolio/Music_Mental_Health`
-3. Run the data preprocessing script: `python scripts/data_preprocessing.py`
-4. Open the Jupyter notebook for EDA: `jupyter notebook notebooks/Music_Mental_Health_Analysis.ipynb`
+The analysis includes data cleaning and transformation, exploratory data analysis (EDA), and visualizations to understand trends and correlations in the data.
