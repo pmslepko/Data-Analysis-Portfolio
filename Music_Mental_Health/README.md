@@ -27,7 +27,7 @@ The dataset contains responses to questions about musical background, listening 
 - `Permissions`: Permissions for using the data
 
 ### Contents
-There are currently three files uploaded: two scripts and an Excel file. One of the scripts cleans and transforms the data so it can be easily used in Excel. The second script performs some basic exploratory data analysis. The Excel file expands the raw data to include bins and visualises some interesting points.
+There are currently five files uploaded: two SQL scripts, .csv source dataset, .db database an Excel file. One of the scripts cleans and transforms the data so it can be easily used in Excel. The second script performs some basic exploratory data analysis. The Excel file expands the raw data to include bins and visualises some interesting points.
 
 ## Analysis
 The analysis includes data cleaning and transformation, exploratory data analysis (EDA), and visualizations to understand trends and correlations in the data.
