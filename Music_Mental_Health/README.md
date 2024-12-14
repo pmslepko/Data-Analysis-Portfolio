@@ -1,7 +1,7 @@
-# Music & Mental Health Survey Analysis
+# Music & Mental Health Interactive Visualisation
 
 ## Overview
-This project analyzes the relationship between music listening habits and mental health based on the "Music & Mental Health Survey Results" dataset.
+This project was originaly meant to analyze the relationship between music listening habits and mental health based on the "Music & Mental Health Survey Results" dataset. However, after some thought I decided to start working on a financial analysis project and this one ended up as an interactive visualisation of Music and Mental Health data correlation.
 
 ## Data
 The dataset contains responses to questions about musical background, listening habits, and mental health status.
@@ -27,7 +27,4 @@ The dataset contains responses to questions about musical background, listening 
 - `Permissions`: Permissions for using the data
 
 ### Contents
-There are currently five files uploaded: two SQL scripts, .csv source dataset, .db database an Excel file. One of the scripts cleans and transforms the data so it can be easily used in Excel. The second script performs some basic exploratory data analysis. The Excel file expands the raw data to include bins and visualises some interesting points.
-
-## Analysis
-The analysis includes data cleaning and transformation, exploratory data analysis (EDA), and visualizations to understand trends and correlations in the data.
+There are currently five files uploaded: two SQL scripts, .csv source dataset, .db database an Excel file. One of the scripts cleans and transforms the data so it can be easily used in Excel. The second script performs some basic exploratory data analysis. The Excel file expands the raw data to include bins and provides and interactive visualisation.
