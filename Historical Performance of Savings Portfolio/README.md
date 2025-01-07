@@ -9,15 +9,15 @@ This project focuses on historical performance of an example savings portfolio. 
 
 ### Creation Process
 
-data fetch using python from yfinance
+data fetch from yfinance API with initial transformation and calculation using python 
 
-power bi data import and transformation
+power bi data import and further transformation
 
 creating measures with DAX
 
 creating charts
 
-formatting
+formatting charts
 
 ## Tools Used
 
