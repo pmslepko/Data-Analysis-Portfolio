@@ -14,6 +14,16 @@ The performance is calculated based on an initial investment of 10 000 and month
 ### Dashboard Preview
 ![alt text](https://github.com/pmslepko/Data-Analysis-Portfolio/blob/main/Historical%20Performance%20of%20Savings%20Portfolio/Historical%20Performance%20of%20Savings%20Portfolio%20preview.png)
 
+### Outcomes
+
+The analysis shows which financial instrument (FI) performed better than the others during the twelve years period. 
+
+The best-performing FI was NASDAQ 100 which showed percentage change relative to money invested as high as 237%, beating S&P 500 which changed only 89% with VWRL catching on it's toes at 81%. 
+
+Two worst-performing FIs were bank savings (16% change) and VFEM.L (-5% change!). Even though bank savings are at 16% relative change, it was surely eaten up by inflation and unprofitable.
+
+Please remember this is not a financial advice but an analysis of historical performance.
+
 ### Creation Process
 
 There were five main steps in the creation process of this dashboard:
@@ -34,7 +44,7 @@ Power BI
 
 DAX
 
-# Planned Updates
+## Planned Updates
 
 In the future I want the viewer to be able to input their own initial investment and monthly contribution value.
 
